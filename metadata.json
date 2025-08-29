@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Lend: P2P Lending & Investing",
+  "description": "Zenith Lend is a modern, secure P2P lending platform. Invest in personal loans or borrow funds with a streamlined, KYC-verified process. Features risk assessment, loan marketplaces, and portfolio dashboards for smart investing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
